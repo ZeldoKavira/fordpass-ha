@@ -1,4 +1,6 @@
 ## **Changelog**
+### Version 1.71
+- Z
 ### Version 1.70
 - New config flow to allow for a user to generate a token in their browser then enter into the application, bypasses WAF. 
 ### Version 1.69
