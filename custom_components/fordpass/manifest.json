@@ -1,10 +1,10 @@
 {
     "domain": "fordpass",
-    "name": "FordPass",
+    "name": "FordPassz",
     "codeowners": ["@itchannel"],
     "config_flow": true,
     "dependencies": [],
-    "documentation": "https://github.com/itchannel/fordpass-ha",
+    "documentation": "https://github.com/zeldokavira/fordpass-ha",
     "homekit": {},
     "integration_type": "device",
     "iot_class": "cloud_polling",
